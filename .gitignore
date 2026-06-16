@@ -1,0 +1,9 @@
+.env
+*.log
+__pycache__/
+.ipynb_checkpoints/
+*.tmp
+.DS_Store
+Thumbs.db
+02_projects/*/output/*.csv
+02_projects/*/output/*.xlsx
